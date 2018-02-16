@@ -1,0 +1,74 @@
+baseurl = "https://www.arnovw.com/"
+title = "Arno"
+languageCode = "en-us"
+MetaDataFormat = "md"
+theme = "hyde-x"
+paginate = 10
+
+
+[author]
+    name = "Arno"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # If false display full article contents in blog index.
+    # Otherwise show description and 'read on' link to individual blog post page.
+    # Default (if omitted) is true.
+    truncate = false
+
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Your default page description"
+    defaultKeywords = "your,default,page,keywords"
+
+    # Hide estimated reading time for posts.
+    # Default (if omitted) is false.
+    hideReadingTime = true
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "my-theme-base"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "hybrid"
+
+    # Optional additional custom CSS file URL, will override other styles.
+    customCSS = ""
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "Fullstack freelance programmer based in Belgium. Available for hire."
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "Blog"
+
+    # Metadata used to drive integrations.
+    googleAnalytics = "Your Google Analytics tracking code"
+    gravatarHash = "102ffe1bf794548845dcc32d54fb75e1"
+
+    # Sidebar social links, these must be full URLs.
+    github = "https://github.com/Arnovw"
+    bitbucket = ""
+    stackOverflow = ""
+    linkedin = "https://www.linkedin.com/in/arno-van-waeyenberg-a29b5ba3/"
+    googleplus = ""
+    facebook = ""
+    twitter = ""
+    youtube = ""
+
+    # Other social-like sidebar links
+    rss = false  # switch to true to enable RSS icon link
+    #flattr = ""  # populate with your flattr uid

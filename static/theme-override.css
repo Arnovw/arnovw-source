@@ -1,0 +1,38 @@
+/* Red */
+.my-theme-base .sidebar {
+  background-color: black;
+}
+.my-theme-base .content a,
+.my-theme-base .related-posts li a:hover {
+  color: black;
+}
+
+.my-theme-base .label {
+  background-color: black;
+}
+
+.my-theme-base .pagination > li > a,
+.my-theme-base .pagination > li > span {
+  color: black;
+}
+
+.my-theme-base .pagination > .active > a,
+.my-theme-base .pagination > .active > span,
+.my-theme-base .pagination > .active > a:hover,
+.my-theme-base .pagination > .active > span:hover,
+.my-theme-base .pagination > .active > a:focus,
+.my-theme-base .pagination > .active > span:focus {
+  background-color: black;
+  border-color: black;
+}
+
+.my-theme-base .pagination > .disabled > span,
+.my-theme-base .pagination > .disabled > span:hover,
+.my-theme-base .pagination > .disabled > span:focus,
+.my-theme-base .pagination > .disabled > a,
+.my-theme-base .pagination > .disabled > a:hover,
+.my-theme-base .pagination > .disabled > a:focus {
+  color: #777;
+  background-color: #fff;
+  border-color: #ddd;
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arno</title>
+    <link>https://www.arnovw.com/</link>
+    <description>Recent content on Arno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 15:46:41 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.arnovw.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://www.arnovw.com/blog/2018/02/10/hello-world/</link>
+      <pubDate>Sat, 10 Feb 2018 15:46:41 +0100</pubDate>
+      
+      <guid>https://www.arnovw.com/blog/2018/02/10/hello-world/</guid>
+      <description>_ _ _ _ /\ /\___| | | _____ _____ _ __| | __| | / /_/ / _ \ | |/ _ \ \ /\ / / _ \| &#39;__| |/ _` | / __ / __/ | | (_) \ V V / (_) | | | | (_| | \/ /_/ \___|_|_|\___/ \_/\_/ \___/|_| |_|\__,_| &amp;gt; ...█  This is index 0. An invocation for a new beginning.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.arnovw.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.arnovw.com/about/</guid>
+      <description>My name is Arno Van Waeyenberg. I&amp;rsquo;m a fullstack programmer based in Belgium.
+Recently I found out what the three great virtues of a programmer are (according to Larry Wall, original author of the Perl programming language):
+ Laziness: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don&amp;rsquo;t have to answer so many questions about it.</description>
+    </item>
+    
+  </channel>
+</rss>
