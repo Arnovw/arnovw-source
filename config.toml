@@ -1,5 +1,5 @@
 baseurl = "https://www.arnovw.com/"
-title = "Arno"
+title = "Blog"
 languageCode = "en-us"
 MetaDataFormat = "md"
 theme = "hyde-x"
@@ -28,8 +28,8 @@ paginate = 10
     truncate = false
 
     # Used when a given page doesn't set its own.
-    defaultDescription = "Your default page description"
-    defaultKeywords = "your,default,page,keywords"
+    defaultDescription = ""
+    defaultKeywords = ""
 
     # Hide estimated reading time for posts.
     # Default (if omitted) is false.

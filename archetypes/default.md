@@ -1,6 +1,10 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
++++
+title = ""
+description = ""
 date: {{ .Date }}
 draft: true
+keywords = []
+categories = []
 ---
 

@@ -4,17 +4,6 @@ date: 2018-02-10T15:46:41+01:00
 draft: false
 ---
 
-
-```
-            _ _                         _     _ 
-  /\  /\___| | | _____      _____  _ __| | __| |
- / /_/ / _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
-/ __  /  __/ | | (_) \ V  V / (_) | |  | | (_| |
-\/ /_/ \___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
-
-> ...█
-```
-
 This is index 0. An invocation for a new beginning. A first step on a new journey. 
 An attempt to correct my imbalance between consumption and creation.
 
@@ -27,3 +16,14 @@ But the fundamentals rarely change overnight.
 
 I've carved out this small part of internet real-estate to write about technical topics that are keeping me engaged.
 Stick with me, maybe you'll find something useful ;)
+
+
+```
+            _ _                         _     _ 
+  /\  /\___| | | _____      _____  _ __| | __| |
+ / /_/ / _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
+/ __  /  __/ | | (_) \ V  V / (_) | |  | | (_| |
+\/ /_/ \___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
+
+> ...█
+```
