@@ -49,15 +49,15 @@ paginate = 10
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Fullstack freelance programmer based in Belgium. Available for hire."
+    tagline = "Full-stack freelance programmer based in Belgium."
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
     home = "Blog"
 
     # Metadata used to drive integrations.
-    googleAnalytics = "Your Google Analytics tracking code"
-    gravatarHash = "102ffe1bf794548845dcc32d54fb75e1"
+    googleAnalytics = ""
+    gravatarHash = ""
 
     # Sidebar social links, these must be full URLs.
     github = "https://github.com/Arnovw"
